@@ -1,0 +1,2 @@
+# premium-turbine-model-001-pelton-turbine-scale-model-pla
+Tired of juggling sketches, spreadsheets, and sticky notes while trying to keep your Pelton turbine scale model on track? The Pelton Turbine Scale Model Planner gives you a single, intelligent workspace to organize every critical dimension, part, and test result.  This Notion template eliminates the chaos of scattered data and forgotten specs, so y
